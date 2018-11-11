@@ -1,0 +1,3 @@
+MODE_PRIVATE  存在择覆盖，不存在则新建
+
+MODE_APPEND   存在则添加，不存在则新建
